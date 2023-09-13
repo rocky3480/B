@@ -40,7 +40,7 @@ balance("0xfc30a6c6d1d61f0027556ed25a670345ab39d0cb", function(error, result) {
 ## Installation
 
 ```
-~ » git clone https://github.com/ValeryLitvin/crypto-balances
+~ » git clone https://github.com/crypto-balances-master/crypto-balances-master
 ~ » cd crypto-balances
 ~ » make init
 ~ » make build
